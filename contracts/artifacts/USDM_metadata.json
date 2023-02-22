@@ -391,11 +391,11 @@
 			]
 		},
 		"contracts/USDM.sol": {
-			"keccak256": "0xa4ff5422347f4625f9f75a882f657fd06f80a16b0ba7c2e08ec8002bb2572fd1",
+			"keccak256": "0x3f1548413f039f13a8c6ddd78dac07540d6fb69caa43a8d91e7f9c1a447705ef",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2211eec7865aa777414df58357b613b40b79a81238a6468270cf513203183d87",
-				"dweb:/ipfs/QmQwEHV7w3BKSjhVEHMYgpQ5iNBgVUXfX4doZJ8DYAcKnC"
+				"bzz-raw://508554532ac7e68d93533a0b396a340e206e3df11769cd1e1d88eae46ee850dc",
+				"dweb:/ipfs/QmdhUmcKrRpsYoB3wgvgLmf9CTmzqLmrj9SiKJ8V2kDa1x"
 			]
 		}
 	},
