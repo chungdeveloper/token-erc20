@@ -20,6 +20,32 @@
 				],
 				"stateMutability": "nonpayable",
 				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "tokenDebtAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "vaultAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -43,7 +69,7 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
@@ -74,11 +100,11 @@
 			]
 		},
 		"contracts/FarmVault.sol": {
-			"keccak256": "0x415c5f828f96497024998609f786e93a6e3daf146610de297721fdaa951734a6",
+			"keccak256": "0x8f3cfaba2ab6ecead6e8eb9e086a50af49a0d0b4d39bf1559e15e0e83c4e7280",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://63c920d99629c042d7517bedf72622873e3cda18d30f729ed7474c0e454acd74",
-				"dweb:/ipfs/QmTXSQsChgs9tdymCeLuFVHsDFoURaaX8mjdw6sdVNDCm5"
+				"bzz-raw://447bbac73de195be15a488d5eecb1bb11e39a1647e9cf50584cc04cc3bf634ce",
+				"dweb:/ipfs/QmVym2U5EYscWHwWrVGYUisKAUD8PyeZpjRKdzx8bvJ1Hk"
 			]
 		},
 		"contracts/IERC20.sol": {
